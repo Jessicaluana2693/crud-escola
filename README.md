@@ -3,10 +3,6 @@
 
 O CRUD-escola é um projeto desenvolvido em Laravel, tem como principal objetivo a realização da prova de seleção para programador Jr da empresa FlexPeak Tecnologia e Assessoria.
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
-
 ## Ferramentas Utilizadas
 
 Laravel 5.2, JavaScript, CSS, MySQL Workbench 6.3
@@ -21,7 +17,7 @@ Instalar o composer no projeto de acordo com a documentação (https://getcompos
 Dentro do diretorio escola, rodar o comando composer create-project laravel/laravel your-project-name 5.2.*. Para mais informações faça de acordo com a documentação (https://laravel.com/docs/5.2).
 Crie um banco de dados com o nome "escola" e importar o arquivo sql.backup.
 
-##Sobre as tecnologias
+## Sobre as tecnologias
 MySQL
 O MySQL é o banco de dados de código aberto mais conhecido no mundo. Com comprovado desempenho, confiabilidade e facilidade de uso, o MySQL tornou-se a principal opção de banco de dados para aplicativos baseados na Web, usado por propriedades da Web de alto perfil, incluindo Facebook, Twitter, YouTube e todos os cinco sites principais.* Além disso, é uma opção extremamente popular como banco de dados integrado, distribuído por milhares de ISVs e OEMs.
 
