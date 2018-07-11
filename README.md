@@ -13,6 +13,7 @@ Requisitos
 * Banco de dados mysql versão 6.3
 * Laravel versão 5.2
 * Composer
+
 Instalar o composer no projeto de acordo com a documentação (https://getcomposer.org/download/). 
 Dentro do diretorio escola, rodar o comando composer create-project laravel/laravel your-project-name 5.2.*. Para mais informações faça de acordo com a documentação (https://laravel.com/docs/5.2).
 Crie um banco de dados com o nome "escola" e importar o arquivo sql.backup.
