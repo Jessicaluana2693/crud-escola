@@ -23,7 +23,7 @@
                     </div>
 
                     <div class="links">
-                        <a href="https://github.com/laravel/laravel">GitHub</a>
+                        <a href="https://github.com/Jessicaluana2693/crud-escola">GitHub</a>
                     </div>
                 </div>
             </div>
