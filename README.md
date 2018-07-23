@@ -17,7 +17,7 @@ Requisitos
 ## Informações do sistema
 * Nome do banco: escola
 * tabelas: alunos, cursos e professores
-versão do PHP: 7.0.1
+* versão do PHP: 7.0.1
 
 Instalar o composer no projeto de acordo com a documentação (https://getcomposer.org/download/). 
 Dentro do diretorio escola, rodar o comando composer create-project laravel/laravel your-project-name 5.2.*. Para mais informações faça de acordo com a documentação (https://laravel.com/docs/5.2).
